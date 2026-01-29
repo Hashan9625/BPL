@@ -1,3 +1,10 @@
+/**
+ * @version 1.0
+ * @Author: HASAN MADHUSHANKHA
+ * @Date: 1/23/2026,
+ * @Description osRun
+ */
+
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
